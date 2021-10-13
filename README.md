@@ -7,7 +7,5 @@ Once the username has been enetered, the user will be taken to the main page whi
 # Getting started
   * Clone the Repository 
   * Import the project on Android Studio 
-  * Run the project  
+  * Build & Run the project  
 
-# Credits
-[30 Days Of Kotlin.pdf](https://github.com/Saurav51/KotlinProjectApp/files/7334725/30.Days.Of.Kotlin.pdf)
